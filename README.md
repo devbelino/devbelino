@@ -1,21 +1,58 @@
-### Olá! Eu sou o Bruno Belino 🖐️
+<!-- Profile Views -->
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=devbelino&color=1a6ec7&style=flat-square&label=Profile+views" alt="Profile views" />
+</div>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brunobferreira7/)
+### Hi! I'm Bruno, it's great to see you here! 
+---
 
-![Belino GitHub stats](https://github-readme-stats.vercel.app/api?username=devbelino&show_icons=true&theme=radical)
+## Portfolio
 
-## Tecnologias que eu uso no meu dia a dia
+<!-- Tech Stack Icons -->
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,mysql,py,java" />
+  <br/>
+</div>
 
-<div style="display: inline_block"><br/>
-<img align="center" alt=html5 src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img align="center" alt=html5 src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img align="center" alt=html5 src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-<img align="center" alt=html5 src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img align="center" alt=html5 src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" />
-</div><br/>
+---
 
-Entusiasta de tecnologia e educação, com a missão de transformar vidas por meio da programação
+## 📊 System Metrics & Activity
 
-## Email para contato:
+<!-- Contribution Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devbelino&theme=react-dark&bg_color=0d1117&color=4da6ff&line=1a6ec7&point=f0c040&area=true&area_color=1a6ec7&hide_border=true" width="100%" alt="Contribution Graph" />
+</div>
 
-- brunobelinoferreiira@gmail.com
+<br/>
+
+<!-- Stats + Commits side by side -->
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=devbelino&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=1a6ec7&icon_color=4da6ff&title_color=4da6ff&text_color=ffffff&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=devbelino&theme=github-dark-blue&background=0d1117&border=1a6ec7&ring=4da6ff&fire=f0c040&currStreakLabel=4da6ff" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<!-- Top Languages side by side -->
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <!-- Top langs by repo -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbelino&layout=donut&theme=github_dark&bg_color=0d1117&border_color=1a6ec7&title_color=4da6ff&text_color=ffffff&hide_border=false&langs_count=5" alt="Top Languages by Repo" />
+      </td>
+      <td>
+        <!-- Top langs by commit (WakaTime or alternate) -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbelino&layout=donut-vertical&theme=github_dark&bg_color=0d1117&border_color=1a6ec7&title_color=4da6ff&text_color=ffffff&hide_border=false&langs_count=5&count_private=true" alt="Top Languages by Commit" />
+      </td>
+    </tr>
+  </table>
+</div>
