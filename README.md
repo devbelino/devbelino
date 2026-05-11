@@ -40,19 +40,3 @@
 </div>
 
 <br/>
-
-<!-- Top Languages side by side -->
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <!-- Top langs by repo -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbelino&layout=donut&theme=github_dark&bg_color=0d1117&border_color=1a6ec7&title_color=4da6ff&text_color=ffffff&hide_border=false&langs_count=5" alt="Top Languages by Repo" />
-      </td>
-      <td>
-        <!-- Top langs by commit (WakaTime or alternate) -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbelino&layout=donut-vertical&theme=github_dark&bg_color=0d1117&border_color=1a6ec7&title_color=4da6ff&text_color=ffffff&hide_border=false&langs_count=5&count_private=true" alt="Top Languages by Commit" />
-      </td>
-    </tr>
-  </table>
-</div>
