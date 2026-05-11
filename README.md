@@ -4,6 +4,8 @@
 </div>
 
 ### Hi! I'm Bruno, it's great to see you here!
+💼 Young infrastructure apprentice at Natto Alimentos
+
 
 ---
 
@@ -25,10 +27,12 @@
   <img src="https://streak-stats.demolab.com/?user=devbelino&theme=github-dark-blue&background=0d1117&border=1a6ec7&ring=4da6ff&fire=f0c040&currStreakLabel=4da6ff" height="150" />
 </div>
 
----
-### 🤝 Connect with me
-<div align="left">
+🤝 Connect with me
+
 <a href="https://www.linkedin.com/in/bruno-belino-ferreira-48907b319/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
-</div>
+
+<a href="brunobelinoferreiira@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+</a>
