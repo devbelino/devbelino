@@ -4,7 +4,7 @@
 </div>
 
 ### Hi! I'm Bruno, it's great to see you here!
-💼 Young infrastructure apprentice at Natto Alimentos
+💼 Young system apprentice at Natto Alimentos
 
 
 ---
