@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 190" width="100%">
+  <defs>
+    <linearGradient id="card" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0b1f4d"/>
+      <stop offset="1" stop-color="#040b1f"/>
+    </linearGradient>
+    <filter id="g"><feGaussianBlur stdDeviation="3"/></filter>
+  </defs>
+  <style>
+    .t{font-family:'Segoe UI',Arial,sans-serif;font-weight:700;font-size:15px;fill:#e0f2fe;text-anchor:middle}
+    .s{font-family:'Courier New',monospace;font-size:11px;fill:#7dd3fc;text-anchor:middle;letter-spacing:1px}
+    .i{font-family:'Courier New',monospace;font-size:34px;font-weight:700;fill:#38bdf8;text-anchor:middle}
+  </style>
+
+  <!-- card 1 -->
+  <g>
+    <rect x="10" y="15" width="230" height="160" rx="14" fill="url(#card)" stroke="#2563eb" stroke-width="1.5">
+      <animate attributeName="stroke-opacity" values="1;0.3;1" dur="3s" repeatCount="indefinite"/>
+    </rect>
+    <text x="125" y="75" class="i" filter="url(#g)" opacity="0.7">[#]</text>
+    <text x="125" y="75" class="i">[#]
+      <animate attributeName="y" values="75;70;75" dur="3s" repeatCount="indefinite"/></text>
+    <text x="125" y="110" class="t">Análise e</text>
+    <text x="125" y="130" class="t">Desenv. de Sistemas</text>
+    <text x="125" y="155" class="s">// ADS</text>
+  </g>
+
+  <!-- card 2 -->
+  <g>
+    <rect x="260" y="15" width="230" height="160" rx="14" fill="url(#card)" stroke="#2563eb" stroke-width="1.5">
+      <animate attributeName="stroke-opacity" values="1;0.3;1" dur="3s" begin="0.7s" repeatCount="indefinite"/>
+    </rect>
+    <text x="375" y="75" class="i" filter="url(#g)" opacity="0.7">[=]</text>
+    <text x="375" y="75" class="i">[=]
+      <animate attributeName="y" values="75;70;75" dur="3s" begin="0.7s" repeatCount="indefinite"/></text>
+    <text x="375" y="120" class="t">Infraestrutura</text>
+    <text x="375" y="155" class="s">// INFRA</text>
+  </g>
+
+  <!-- card 3 -->
+  <g>
+    <rect x="510" y="15" width="230" height="160" rx="14" fill="url(#card)" stroke="#2563eb" stroke-width="1.5">
+      <animate attributeName="stroke-opacity" values="1;0.3;1" dur="3s" begin="1.4s" repeatCount="indefinite"/>
+    </rect>
+    <text x="625" y="75" class="i" filter="url(#g)" opacity="0.7">&lt;=&gt;</text>
+    <text x="625" y="75" class="i">&lt;=&gt;
+      <animate attributeName="y" values="75;70;75" dur="3s" begin="1.4s" repeatCount="indefinite"/></text>
+    <text x="625" y="120" class="t">Redes</text>
+    <text x="625" y="155" class="s">// NETWORKING</text>
+  </g>
+
+  <!-- card 4 -->
+  <g>
+    <rect x="760" y="15" width="230" height="160" rx="14" fill="url(#card)" stroke="#2563eb" stroke-width="1.5">
+      <animate attributeName="stroke-opacity" values="1;0.3;1" dur="3s" begin="2.1s" repeatCount="indefinite"/>
+    </rect>
+    <text x="875" y="75" class="i" filter="url(#g)" opacity="0.7">&lt;/&gt;</text>
+    <text x="875" y="75" class="i">&lt;/&gt;
+      <animate attributeName="y" values="75;70;75" dur="3s" begin="2.1s" repeatCount="indefinite"/></text>
+    <text x="875" y="120" class="t">Desenvolvimento</text>
+    <text x="875" y="155" class="s">// DEV</text>
+  </g>
+</svg>
