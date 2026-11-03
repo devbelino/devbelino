@@ -15,8 +15,7 @@
 ## `> about_me`
 
 ```text
-Estudante de Análise e Desenvolvimento de Sistemas (Unicesumar), em busca da
-primeira oportunidade como Desenvolvedor Júnior.
+Aspirante a Desenvolvedor Backend Jr.
 
 Construo aplicações com Java e Python, consumo APIs REST/JSON, uso Git para
 versionamento e trabalho com SQL (PostgreSQL, MySQL e noções de Oracle),
