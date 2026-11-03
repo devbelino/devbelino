@@ -23,8 +23,6 @@ versionamento e trabalho com SQL (PostgreSQL, MySQL e noções de Oracle),
 entendendo bem a integração entre backend e banco de dados. No front-end,
 uso HTML e CSS para estruturar interfaces.
 
-Quero entrar em um time colaborativo e de alta performance, para somar com
-dedicação e acelerar minha evolução técnica.
 ```
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
