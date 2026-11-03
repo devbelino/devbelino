@@ -15,9 +15,16 @@
 ## `> about_me`
 
 ```text
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Estudante de Análise e Desenvolvimento de Sistemas (Unicesumar), em busca da
+primeira oportunidade como Desenvolvedor Júnior.
+
+Construo aplicações com Java e Python, consumo APIs REST/JSON, uso Git para
+versionamento e trabalho com SQL (PostgreSQL, MySQL e noções de Oracle),
+entendendo bem a integração entre backend e banco de dados. No front-end,
+uso HTML e CSS para estruturar interfaces.
+
+Quero entrar em um time colaborativo e de alta performance, para somar com
+dedicação e acelerar minha evolução técnica.
 ```
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
@@ -56,8 +63,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 | Certificação | Instituição | Ano |
 | :--- | :--- | :---: |
 | Análise e Desenvolvimento de Sistemas | Unicesumar | 2023 – 2026 |
-| Consectetur adipiscing elit | Lorem Institute | 2025 |
-| Sed do eiusmod tempor | Ipsum Academy | 2024 |
+| NLW Connect - Java | Rocketseat | 2025 |
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
